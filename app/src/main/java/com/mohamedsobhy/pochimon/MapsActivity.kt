@@ -160,6 +160,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
                                 }
                             }
                         }
+
                     }
 
                     Thread.sleep(1000)
